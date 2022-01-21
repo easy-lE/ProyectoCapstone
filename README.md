@@ -61,12 +61,109 @@ El siguiente esquematico muestra el armado del circuito con los sensores integra
 - Comunicación i2c 
 Este bus de comunicación funciona de manera bidireccional con una línea de datos (SDA) y una líunea de reloj (SCL). Para instalarlo debemos dirigrnos a la sección de configuración de la Raspberry. Esta acción se puede realizar con el siguiente comando:
 
-sudo raspi-config
+```
+pi@raspberrypi:~$ sudo raspi-config
+```
 
+Seleccionamos *Interfacing Opstions*
 
-- ADAFruit_DHT
+![image](https://user-images.githubusercontent.com/86132543/150589149-68b547f5-8c61-49fc-9eac-d260059794ea.png)
+
+Seleccionamos *P5*
+
+![image](https://user-images.githubusercontent.com/86132543/150589274-681b0424-d171-443e-be55-053a3a43978b.png)
+
+Confimamos la habilitación del interfaz
+
+![image](https://user-images.githubusercontent.com/86132543/150589354-9b8fbb8c-03e9-4ed5-8b9c-e952e905ef7b.png)
+
+Confirmamos de enterado selleccionando la opción *<ok>*
+ 
+  ![image](https://user-images.githubusercontent.com/86132543/150589462-b3a5dd70-10da-495c-a53c-a7ab839b7208.png)
+
+  Para que los cambios a la configuración tengan efecto, debemos reiniciar el sistema selleccionando opción de *<Yes>*. Una vez que el sistema se reinicie, podemos usas la comunicación I2C.
+  
+  ![image](https://user-images.githubusercontent.com/86132543/150589654-255d4d0b-f0b6-4f02-8f1b-4106c4abd309.png)
+
+  
+- ADAFruit_DHT  
+Para instalar esta extensión, debemos de intalar el controlador de Python proporcionado por Adafruit. Para esto ejecutamos las siguientes líneas de comandos.
+
+```
+sudo apt-get update 
+sudo apt-get install build-essential python-dev
+git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+cd Adafruit_Python_DHT
+sudo python setup.py install 
+```
+  
 - ADAFruit_ADSx15
+ Para instalar esta libreria necesitamos ejecutar la siguiente instrucción en la ventana de comandos.
+  
+  ```
+  sudo pip3 install adafruit-circuitpython-ads1x15
+  ```
+  
 - Node-red
+ Esta intercace te permite definir graficamente flujos de servicioas a través de protocolos estándares como REST, MQTT, Websocket, AMQP.
+ Node-red ya viene preinstalado en la Raspberry Pi, solo tenemos que abrir una terminal y ejecutar el siguiente comando.
+  
+  ```
+  bash <(curl -sL https://raw.githubusercontent.com/node-red/raspbian-deb-package/master/resources/update-nodejs-and-nodered)
+  ```
+ 
+ Para encender el Node-red, debemos ejecutar el siguiente comando en nuestra terminal.
+ ```
+ node-red
+ ```
 - Grafana
+ Esta interfaz nos permitira analizar y visializar las datos recolectados.
+ Para instlar grafana en la Raspberry, primero debemos ejecutar el siguiente comando de descarga:
+             
+  ```
+  wget https://dl.grafana.com/oss/release/grafana_5.4.0_armhf.deb
+  ```           
+  Más adelante debemos intalar el paquete de grafana con el siguiente comando:
+  
+  ```
+  sudo dpkg -i grafana_5.4.0_armhf.deb
+  ```
+  
+  Posteriormente debemos habilitar el servicio de Grafana:
+  
+  ```
+  sudo /bin/systemctl enable grafana-server 
+  ```
+ 
+  Y por ultimo arrancar el servicio:
+ 
+  ```            	
+  sudo /bin/systemctl start grafana-server
+  ```    
 - Influxdb
+Para instalar localmente el interfaz de Influxdb, debemos de ejecutar las sigueintes líneas de código en nuestra terminal.
+ 
+ ``` 
+sudo apt install influxdb
+sudo apt install influxdb-client
+sudo service influxdb start
+ 
+ ```             
+Poseteriormente debemos modificar una parte de influx, escribiendo el siguiente comando:
+```
+sudo nano /etc/influxdb/influxdb.conf
+```              
+              
+Por ultimo debemos de reiniciar la consola para poder usar influxdb
+```
+sudo service influxdb restart
+```
+- MQTT broker
+Para poder utilizar MQTT, debemos de instalar y habilitar con las siguientes lineas de intrucciones:
+              
+  ```
+  sudo apt install mosquitto mosquitto-clients
 
+  sudo systemctl enable mosquitto
+  ```
+ 
