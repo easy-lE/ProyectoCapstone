@@ -13,6 +13,34 @@ Objetivos:
 
 2) Analizar y gestionar la información recolectada de manera eficaz, de manera que esta pueeda ser reutilizada para el buen cuidado del cultivo agricola.
 
+Materiales:
+
+Raspberry Pi 3 Model B+
+![image](https://user-images.githubusercontent.com/86132543/150583668-6d0e242f-4d02-4de8-8769-a506dce822ae.png)
+
+Trajeta Gpio extensión Raspberry Pi + 
+![image](https://user-images.githubusercontent.com/86132543/150583804-1c4a76ab-5fd0-499c-8647-a415a0a6b313.png)
+
+Sensor de presión barometrica BMP180
+![image](https://user-images.githubusercontent.com/86132543/150583077-4830507c-8181-4b40-9f66-9bcded1cb031.png)
+
+Sensor de temperatura y humedad DHT11
+![image](https://user-images.githubusercontent.com/86132543/150583271-769c3733-029b-49e7-936e-5516bc4bdd1b.png)
+
+Sensor de PH con modulo E201-BNC
+![image](https://user-images.githubusercontent.com/86132543/150583444-ffda412d-c8a7-4f3e-924d-2ff0ae8ac2de.png)
+
+Convertidor DC-DC step-down
+![image](https://user-images.githubusercontent.com/86132543/150584368-88b5dc12-c552-475b-828c-ed6f5b4e4116.png)
+
+Conversor analógico digital ADC ADS1115
+![image](https://user-images.githubusercontent.com/86132543/150584014-96bdc688-a66c-48e1-81a9-b2d64bda35f9.png)
+
+Bateria de 12 volts
+![image](https://user-images.githubusercontent.com/86132543/150584256-e410aa02-e999-41c8-9f51-4022bd126f0c.png)
+
+
+
 Circuito:
 
 ![image](https://user-images.githubusercontent.com/86132543/150582433-729285b0-3ac3-4e2a-bc26-b99467194b26.png)
