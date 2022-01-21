@@ -166,4 +166,6 @@ Para poder utilizar MQTT, debemos de instalar y habilitar con las siguientes lin
 
   sudo systemctl enable mosquitto
   ```
- 
+ Para aceder a la interfaz debemos de abrir la siguiente dirección en cualquier navegador: **127.0.0.1:1880**
+
+
