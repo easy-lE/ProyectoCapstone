@@ -2,4 +2,4 @@
 
 - En la carpeta **Lectura de datos**, se muestra la recoleccón y visualización de datos en el interfaz **Grafana**, así como la estructura de bloques del **Node-red**. 
 
-- En el archivo **main.py**, contieene la integración de códigos para el uso del prototipo. 😃
+- En el archivo **main.py**, contiene la integración de códigos para el uso del prototipo. 😃
