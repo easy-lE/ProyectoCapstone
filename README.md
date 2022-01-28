@@ -6,11 +6,12 @@ El desarrollo tecnológico y su implementaccón para la resolución de problemas
 Las Naciones Unidas proyectan un importante crecimiento poblacional que llevaria a la población mundial a mas de nueve mil millones de personas en 2050 (Zlotnik 2009) y se observa una oocidentalización en el perfil del consumo humano, este echo implica uno de los mayores retos al conllevar un incremento en la demanda de insumos y derivados.
 
 La posibilidad de la incorporación de las tecnologias relacionadas con el internet de las cosas (IoT), la recolección de información, el monitoreo y la evaluación de un sistema de cultivo, resulta determinante para una afectiva toma de decisiones, mejor corrección de la producción para alcanzar el necesario abastecimiento mundial. Los cultivos protegidos dan la oportunidad de controlar el clima y los aspectos físicos-químicos para lograr una optimización agricola.
-Objetivos generales 
+
+### Objetivos generales: 
 
 •	Desarrollar un prototipo básico de internet de las cosas donde se pueda integrar sensores para el envío de información en tiempo real de variables como: Temperatura, Humedad, PH, Altitud, Presión y Temperatura Barométrica
 
-Objetivos específicos 
+### Objetivos específicos 
 
 	Aplicar los conocimientos adquiridos a lo largo de diplomado para la construcción e implementación de un sistema de monitoreo IoT.
 	Generar una alternativa sustentable y ruptura de paradigma para que la población pueda optar por una integración de mejores perfiles alimenticios y autoconsumo.
