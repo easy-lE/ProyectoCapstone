@@ -1,5 +1,5 @@
 # ProyectoCapstone
-## Titulo: Implementación de IoT para el monitorio de cultivos agrícolas
+## Titulo: Sistema de monitoreo de variables fisicoquímicas aplicadas a un sistema agrícola con tecnología IoT
 
 ### Justificación:
 El desarrollo tecnológico y su implementaccón para la resolución de problemas de la vida cotidiana ha ido creciendo de manera más acelerada en los ultimos años. A pesar de ello, es evidente que este avance no sido gradual para todos los sectores; La agricultura hoy es uno de los casmpos con mayor potencial de desarrollo del mundo. Por un lado, la creciente demanda originada en el crecimiento poblacional y en la mejora alimentaria en el consumo humano.
