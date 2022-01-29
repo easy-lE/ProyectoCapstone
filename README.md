@@ -3,7 +3,7 @@
 
 ### Justificación:
 El desarrollo tecnológico y su implementaccón para la resolución de problemas de la vida cotidiana ha ido creciendo de manera más acelerada en los ultimos años. A pesar de ello, es evidente que este avance no sido gradual para todos los sectores; La agricultura hoy es uno de los casmpos con mayor potencial de desarrollo del mundo. Por un lado, la creciente demanda originada en el crecimiento poblacional y en la mejora alimentaria en el consumo humano.
-Las Naciones Unidas proyectan un importante crecimiento poblacional que llevaria a la población mundial a mas de nueve mil millones de personas en 2050 (Zlotnik 2009) y se observa una oocidentalización en el perfil del consumo humano, este echo implica uno de los mayores retos al conllevar un incremento en la demanda de insumos y derivados.
+Las Naciones Unidas proyectan un importante crecimiento poblacional que llevaria a la población mundial a mas de nueve mil millones de personas en 2050 (Zlotnik 2009) y se observa una oocidentalización en el perfil del consumo humano, este hecho implica uno de los mayores retos al conllevar un incremento en la demanda de insumos y derivados.
 
 La posibilidad de la incorporación de las tecnologias relacionadas con el internet de las cosas (IoT), la recolección de información, el monitoreo y la evaluación de un sistema de cultivo, resulta determinante para una afectiva toma de decisiones, mejor corrección de la producción para alcanzar el necesario abastecimiento mundial. Los cultivos protegidos dan la oportunidad de controlar el clima y los aspectos físicos-químicos para lograr una optimización agricola.
 
