@@ -41,9 +41,7 @@ La posibilidad de la incorporación de las tecnologias relacionadas con el inter
 
 ![image](https://user-images.githubusercontent.com/86132543/150583444-ffda412d-c8a7-4f3e-924d-2ff0ae8ac2de.png)
 
-### Convertidor DC-DC step-down
 
-![image](https://user-images.githubusercontent.com/86132543/150584368-88b5dc12-c552-475b-828c-ed6f5b4e4116.png)
 
 ### Conversor analógico digital ADC ADS1115
 
