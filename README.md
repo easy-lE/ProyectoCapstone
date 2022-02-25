@@ -2,14 +2,18 @@
 ## Titulo: Sistema de monitoreo de variables fisicoquímicas aplicadas a un sistema agrícola de limones con tecnología IoT
 
 ### Justificación:
-El desarrollo tecnológico y su implementaccón para la resolución de problemas de la vida cotidiana ha ido creciendo de manera más acelerada en los ultimos años. A pesar de ello, es evidente que este avance no a sido gradual para todos los sectores; La agricultura hoy es uno de los casmpos con mayor potencial de desarrollo del mundo. Por un lado, la creciente demanda originada en el crecimiento poblacional y en la mejora alimentaria en el consumo humano.
-Las Naciones Unidas proyectan un importante crecimiento poblacional que llevaria a la población mundial a mas de nueve mil millones de personas en 2050 (Zlotnik 2009) y se observa una oocidentalización en el perfil del consumo humano, este hecho implica uno de los mayores retos al conllevar un incremento en la demanda de insumos y derivados.
+La agricultura es el fundamento de la sociedad como la conocemos, desde tiempos inmemorables hemos buscado la forma de obtener alimentos y producirlos, actualmente los retos van desde la singularidad del individuo por el autoconsumo hasta como humanidad en el reabastecimiento de insumos en viajes espaciales que buscan el auto sustento del astronauta en periodos muy extensos y/o en la capacidad de producir alimento en la expansión humana en otros planetas. Es incorrecto pensar que la agricultura es un sector de una sola ciencia, es por eso que la integración de esta industria 4.0, y de nosotros como sociedad, es de suma importancia para la preservación de insumos, economía de un país y cultura de una sociedad. 
 
+La producción del limón en México tuvo un cierre preliminar en el año 2021, de 2 millones 965 mil toneladas, 4% más que el año pasado, Veracruz fue la principal entidad productora, contribuyendo con 27.3% del total nacional, correspondiente a 809 mil toneladas, seguido por Michoacán con 27% (800 mil toneladas); Oaxaca con 10.3% (306 mil toneladas); Colima 10.1% (300 mil toneladas); Tamaulipas 4.8% (142 mil toneladas) y Jalisco 3.6% (107mil toneladas). En conjunto, estos estados, aportan 83% de la producción de limón en el país (Véase Anexo 10) (SIAP, 2022). Esta comercialización representa ganancias a nivel nacional de más de $ 5 000 .00 millones de pesos. Este ingreso es un sustento fundamental para el país, y por tanto requiere una exigencia en su cuidado y atención. 
+
+Además, este proyecto puede ser aplicado a pequeños y medianos agricultores, proporcionando un monitoreo constante dentro de sus cultivos, el dispositivo recolectara datos, para después convertirse en información que puede ser consultada, analizada y exportada, en caso de ser necesario, puede ser acondicionado a los requerimientos del agricultor para otro tipo de árbol.
 La posibilidad de la incorporación de las tecnologias relacionadas con el internet de las cosas (IoT), la recolección de información, el monitoreo y la evaluación de un sistema de cultivo, resulta determinante para una afectiva toma de decisiones, mejor corrección de la producción para alcanzar el necesario abastecimiento mundial. Los cultivos protegidos dan la oportunidad de controlar el clima y los aspectos físicos-químicos para lograr una optimización agricola.
 
 ### Objetivos generales: 
 
 •	Desarrollar un prototipo básico de internet de las cosas donde se pueda integrar sensores para el envío de información en tiempo real de variables como: Temperatura, Humedad, PH, Altitud, Presión y Temperatura Barométrica
+
+• 
 
 ### Objetivos específicos 
 
