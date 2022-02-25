@@ -15,7 +15,6 @@ La posibilidad de la incorporación de las tecnologias relacionadas con el inter
 
 •Aplicar los conocimientos adquiridos a lo largo de diplomado para la construcción e implementación de un sistema de monitoreo IoT.
 
-•Generar una alternativa sustentable y ruptura de paradigma para que la población pueda optar por una integración de mejores perfiles alimenticios y autoconsumo.
 
 •	Analizar y gestionar la información recolectada, de tal forma que pueda ser reutilizada para el buen manejo dentro del sector agrícola y/o agroindustrial.  
 
