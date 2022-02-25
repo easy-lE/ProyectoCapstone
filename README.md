@@ -50,11 +50,6 @@ La posibilidad de la incorporación de las tecnologias relacionadas con el inter
 
 ![image](https://user-images.githubusercontent.com/86132543/150584014-96bdc688-a66c-48e1-81a9-b2d64bda35f9.png)
 
-### Bateria de 12 volts
-
-![image](https://user-images.githubusercontent.com/86132543/150584256-e410aa02-e999-41c8-9f51-4022bd126f0c.png)
-
-
 
 ## Circuito:
 
