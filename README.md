@@ -6,8 +6,6 @@ La agricultura es el fundamento de la sociedad como la conocemos, desde tiempos 
 
 La producción del limón en México tuvo un cierre preliminar en el año 2021, de 2 millones 965 mil toneladas, 4% más que el año pasado, Veracruz fue la principal entidad productora, contribuyendo con 27.3% del total nacional, correspondiente a 809 mil toneladas, seguido por Michoacán con 27% (800 mil toneladas); Oaxaca con 10.3% (306 mil toneladas); Colima 10.1% (300 mil toneladas); Tamaulipas 4.8% (142 mil toneladas) y Jalisco 3.6% (107mil toneladas). En conjunto, estos estados, aportan 83% de la producción de limón en el país (Véase Anexo 10) (SIAP, 2022). Esta comercialización representa ganancias a nivel nacional de más de $ 5 000 .00 millones de pesos. Este ingreso es un sustento fundamental para el país, y por tanto requiere una exigencia en su cuidado y atención. 
 
-Además, este proyecto puede ser aplicado a pequeños y medianos agricultores, proporcionando un monitoreo constante dentro de sus cultivos, el dispositivo recolectara datos, para después convertirse en información que puede ser consultada, analizada y exportada, en caso de ser necesario, puede ser acondicionado a los requerimientos del agricultor para otro tipo de árbol.
-La posibilidad de la incorporación de las tecnologias relacionadas con el internet de las cosas (IoT), la recolección de información, el monitoreo y la evaluación de un sistema de cultivo, resulta determinante para una afectiva toma de decisiones, mejor corrección de la producción para alcanzar el necesario abastecimiento mundial. Los cultivos protegidos dan la oportunidad de controlar el clima y los aspectos físicos-químicos para lograr una optimización agricola.
 
 ### Objetivos generales: 
 
