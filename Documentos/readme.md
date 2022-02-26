@@ -4,8 +4,6 @@ El documento: **Proyecto_capstone**, muestra el documento del proyecto.
 Dentro de la carpeta: **Prototipo**, se encuentran las imagenes del armado y ejecución del prototipo IoT. ⭐
 
 
-Resumen Capstone
-https://youtu.be/s5j8Y7rqsdg
 
 
 ## EQUIPO 
