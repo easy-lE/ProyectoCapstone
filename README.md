@@ -2,21 +2,23 @@
 ## Titulo: Sistema IoT de monitoreo de variables fisicoquímicas aplicadas a un sistema agrícola de limones
 
 ### Justificación:
-La agricultura es el fundamento de la sociedad como la conocemos, desde tiempos inmemorables hemos buscado la forma de obtener alimentos y producirlos, actualmente los retos van desde la singularidad del individuo por el autoconsumo hasta como humanidad en el reabastecimiento de insumos en viajes espaciales que buscan el auto sustento del astronauta en periodos muy extensos y/o en la capacidad de producir alimento en la expansión humana en otros planetas. 
+La agricultura es el fundamento de la sociedad como la conocemos, desde tiempos inmemorables hemos buscado la forma de obtener alimentos y producirlos, actualmente los retos van desde la singularidad del individuo por el autoconsumo, hasta el reabastecimiento de insumos en futuros viajes espaciales que buscan el reabastecimiento del astronauta en periodos muy extensos y/o en la capacidad de producir alimento en la expansión humana en otros planetas. 
 
 La producción del limón en México tuvo un cierre preliminar en el año 2021, de 2 millones 965 mil toneladas, 4% más que el año pasado, Veracruz fue la principal entidad productora, contribuyendo con 27.3% del total nacional, correspondiente a 809 mil toneladas, seguido por Michoacán con 27% (800 mil toneladas); Oaxaca con 10.3% (306 mil toneladas); Colima 10.1% (300 mil toneladas); Tamaulipas 4.8% (142 mil toneladas) y Jalisco 3.6% (107mil toneladas). En conjunto, estos estados, aportan 83% de la producción de limón en el país (Véase Anexo 10) (SIAP, 2022). Esta comercialización representa ganancias a nivel nacional de más de $ 5 000 .00 millones de pesos. Este ingreso es un sustento fundamental para el país, y por tanto requiere una exigencia en su cuidado y atención. 
+
+Finalmente, este proyecto puede ser aplicado a pequeños y medianos agricultores, proporcionando un monitoreo constante dentro de sus cultivos, el dispositivo recolectara datos, para después convertirse en información que puede ser consultada, analizada y exportada de acuerdo a los requerimientos de cada agricultor.
+
 
 
 ### Objetivos generales: 
 
-•	Desarrollar un prototipo básico de internet de las cosas donde se pueda integrar sensores para el envío de información en tiempo real de variables como: Temperatura, Humedad, PH, Altitud, Presión y Temperatura Barométrica
-
-• 
+•	Aplicar los conocimientos adquiridos a lo largo de diplomado para la construcción e implementación de un sistema de monitoreo IoT.
 
 ### Objetivos específicos 
 
-•Aplicar los conocimientos adquiridos a lo largo de diplomado para la construcción e implementación de un sistema de monitoreo IoT.
+•	Implementar IoT para el monitoreo de: Temperatura, Humedad, PH, Altitud y Presión.
 
+•	Desarrollar un dispositivo IoT, para la recolección de datos en tiempo real.
 
 •	Analizar y gestionar la información recolectada, de tal forma que pueda ser reutilizada para el buen manejo dentro del sector agrícola y/o agroindustrial.  
 
