@@ -20,8 +20,7 @@ Finalmente, este proyecto puede ser aplicado a pequeños y medianos agricultores
 
 •	Desarrollar un dispositivo IoT, para la recolección de datos en tiempo real.
 
-•	Analizar y gestionar la información recolectada, de tal forma que pueda ser reutilizada para el buen manejo dentro del sector agrícola y/o agroindustrial.  
-
+•	Analizar y gestionar la información recolectada.
 ### Materiales:
 
 ### Raspberry Pi 3 Model B+
